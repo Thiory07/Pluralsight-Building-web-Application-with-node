@@ -1,0 +1,21 @@
+{
+  "name": "library",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Thiory <gimenesferreira@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "fontawesome": "^5.0.8"
+  }
+}
